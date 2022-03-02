@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lobbyRegressivo/static/css/main.e5ccfa27.chunk.css",
-    "main.js": "/lobbyRegressivo/static/js/main.9270855c.chunk.js",
-    "main.js.map": "/lobbyRegressivo/static/js/main.9270855c.chunk.js.map",
+    "main.js": "/lobbyRegressivo/static/js/main.f3a8a602.chunk.js",
+    "main.js.map": "/lobbyRegressivo/static/js/main.f3a8a602.chunk.js.map",
     "runtime-main.js": "/lobbyRegressivo/static/js/runtime-main.2e47d6cc.js",
     "runtime-main.js.map": "/lobbyRegressivo/static/js/runtime-main.2e47d6cc.js.map",
     "static/js/2.b6ede384.chunk.js": "/lobbyRegressivo/static/js/2.b6ede384.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.2e47d6cc.js",
     "static/js/2.b6ede384.chunk.js",
     "static/css/main.e5ccfa27.chunk.css",
-    "static/js/main.9270855c.chunk.js"
+    "static/js/main.f3a8a602.chunk.js"
   ]
 }
