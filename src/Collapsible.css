@@ -1,0 +1,10 @@
+.collapsible .content{
+    height: 10px;
+    overflow: hidden;
+  }
+
+  .hardware1{
+    background: #85a5ff;
+    width: 600px;
+    border-radius: 5px;
+  }
