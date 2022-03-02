@@ -12,7 +12,7 @@
     "react-tooltip": "^4.2.21",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://vivinicius.github.io/lobbyRegressivo/",
+  "homepage": " ",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
