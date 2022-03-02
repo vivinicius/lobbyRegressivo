@@ -50,7 +50,7 @@ function App() {
             <iframe src={link} width="40%" height="500px" />
           </div>
         ) : (
-          <div class="gatlingBackgroundImage">
+          <div class="testAleloTransparente">
             <img src={gatlingLogo} />
           </div>
         )}

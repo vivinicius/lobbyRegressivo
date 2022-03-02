@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import btnExpandir from './hardware2bar.png';
-import gatlingLogo from './gatlingBackgroundTransparente.png';
 import './App.css';
 
 function Collapsible(props) {
