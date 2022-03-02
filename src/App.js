@@ -31,7 +31,7 @@ function App() {
             <div class="topbar">
               <br />
             </div>
-            <Collapsible version="1.2" date="02/02/2000" platform="Android" onClick={()=>handleLink('https://github.com/vivinicius/lobbyRegressivo/relatorio1')}>
+            <Collapsible version="1.2" date="02/02/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
               <ReactTooltip />
             </Collapsible>
           </div>
@@ -40,7 +40,7 @@ function App() {
             <div class="topbar">
               <br />
             </div>
-            <Collapsible version="1.1" date="01/01/2000" platform="Android" onClick={()=>handleLink('https://github.com/vivinicius/lobbyRegressivo/relatorio1')}>
+            <Collapsible version="1.1" date="01/01/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
               <ReactTooltip />
             </Collapsible>
           </div>
