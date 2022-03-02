@@ -1,4 +1,5 @@
 
+
 .tittleBar {
   background: #8edfa1;
   width: 100%;
@@ -33,6 +34,10 @@ max-width: 95%;
 height: 740px;
 margin-left: 30px;
 border: 1px solid #99bd2a;
+}
+
+.testAleloTransparente{
+  margin-left: 30px;
 }
 
 .gatlingBackgroundImage{

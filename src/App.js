@@ -45,6 +45,8 @@ function App() {
             </Collapsible>
           </div>
         </div>
+
+        
         {showResults ? (
           <div class="linkGatling">
             <iframe src={link} width="40%" height="500px" />
