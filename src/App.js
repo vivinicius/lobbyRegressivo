@@ -31,7 +31,7 @@ function App() {
             <div class="topbar">
               <br />
             </div>
-            <Collapsible version="1.2" date="02/02/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
+            <Collapsible version="1.2" date="02/02/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/relatoriosRegressivo/relatorio1/')}>
               <ReactTooltip />
             </Collapsible>
           </div>
@@ -46,7 +46,7 @@ function App() {
           </div>
         </div>
 
-        
+
         {showResults ? (
           <div class="linkGatling">
             <iframe src={link} width="40%" height="500px" />
