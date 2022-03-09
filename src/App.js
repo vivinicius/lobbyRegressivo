@@ -3,7 +3,6 @@ import './App.css';
 import gatlingLogo from './testAleloTransparente.png';
 import ReactTooltip from 'react-tooltip';
 import Collapsible from './Collapsible';
-import CollapsibleCenarios from './CollapsibleCenarios';
 
 function App() {
   const [link, setLink] = useState('');
@@ -16,35 +15,42 @@ function App() {
     setButtonSelected(params);
   };
 
-
   return (
     <>
       <div class="tittleBar">
         <div class="tittleText">
-          <h1>RELATORIO REGRESSIVO V1</h1>
+          <h1>v1</h1>
         </div>
       </div>
 
       <div class="container">
         <div class="allTest">
-          <div class="test1">
-            <div class="topbar">
-              <br />
-            </div>
-            <Collapsible version="1.2" date="02/02/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/relatoriosRegressivo/relatorio1/')}>
+          <div class="test1"> 
+            <Collapsible version="X" date="X/X/XXXX" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/relatoriosRegressivo/relatorio1/')}>
               <ReactTooltip />
             </Collapsible>
           </div>
           <br />
           <div class="test2">
-            <div class="topbar">
-              <br />
-            </div>
-            <Collapsible version="1.1" date="01/01/2000" platform="Android" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
+            <Collapsible version="X" date="X/X/XXXX" platform="Web" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
               <ReactTooltip />
             </Collapsible>
           </div>
+          <br />
+          <div class="test2">
+            <Collapsible version="X" date="X/X/XXXX" platform="iOS" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
+              <ReactTooltip />
+            </Collapsible>
+          </div>
+          <br />
+          <div class="test2">
+            <Collapsible version="X" date="X/X/XXXX" platform="iOS" onClick={()=>handleLink('https://vivinicius.github.io/testAlelo/')}>
+              <ReactTooltip />
+            </Collapsible>
+          </div>
+          <br />
         </div>
+        
 
 
         {showResults ? (
