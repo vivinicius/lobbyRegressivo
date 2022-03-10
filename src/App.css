@@ -121,6 +121,20 @@ margin-right: 10px;
 border: 1px solid #99bd2a;
 }
 
+.linkGatling {
+  display: relative;
+}
+
+.loading {
+  position: absolute;
+  top: 35.5%;
+  right: 31.5%;
+}
+
+.isLoading {
+  opacity: 0.3;
+}
+
 .testAleloTransparente{
   margin-left: 30px;
   width: 20%;
