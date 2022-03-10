@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lobbyRegressivo/static/css/main.5f08ac4d.chunk.css",
-    "main.js": "/lobbyRegressivo/static/js/main.25baf75f.chunk.js",
-    "main.js.map": "/lobbyRegressivo/static/js/main.25baf75f.chunk.js.map",
+    "main.css": "/lobbyRegressivo/static/css/main.76c041f6.chunk.css",
+    "main.js": "/lobbyRegressivo/static/js/main.2219671b.chunk.js",
+    "main.js.map": "/lobbyRegressivo/static/js/main.2219671b.chunk.js.map",
     "runtime-main.js": "/lobbyRegressivo/static/js/runtime-main.2e47d6cc.js",
     "runtime-main.js.map": "/lobbyRegressivo/static/js/runtime-main.2e47d6cc.js.map",
-    "static/js/2.cf82fe67.chunk.js": "/lobbyRegressivo/static/js/2.cf82fe67.chunk.js",
-    "static/js/2.cf82fe67.chunk.js.map": "/lobbyRegressivo/static/js/2.cf82fe67.chunk.js.map",
+    "static/js/2.2ab8b000.chunk.js": "/lobbyRegressivo/static/js/2.2ab8b000.chunk.js",
+    "static/js/2.2ab8b000.chunk.js.map": "/lobbyRegressivo/static/js/2.2ab8b000.chunk.js.map",
     "index.html": "/lobbyRegressivo/index.html",
-    "static/css/main.5f08ac4d.chunk.css.map": "/lobbyRegressivo/static/css/main.5f08ac4d.chunk.css.map",
-    "static/js/2.cf82fe67.chunk.js.LICENSE.txt": "/lobbyRegressivo/static/js/2.cf82fe67.chunk.js.LICENSE.txt",
+    "static/css/main.76c041f6.chunk.css.map": "/lobbyRegressivo/static/css/main.76c041f6.chunk.css.map",
+    "static/js/2.2ab8b000.chunk.js.LICENSE.txt": "/lobbyRegressivo/static/js/2.2ab8b000.chunk.js.LICENSE.txt",
     "static/media/testAleloTransparente.06dea100.png": "/lobbyRegressivo/static/media/testAleloTransparente.06dea100.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2e47d6cc.js",
-    "static/js/2.cf82fe67.chunk.js",
-    "static/css/main.5f08ac4d.chunk.css",
-    "static/js/main.25baf75f.chunk.js"
+    "static/js/2.2ab8b000.chunk.js",
+    "static/css/main.76c041f6.chunk.css",
+    "static/js/main.2219671b.chunk.js"
   ]
 }
